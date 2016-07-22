@@ -10,4 +10,6 @@ To run using Jetty:
 
 Runs on localhost:8080/SimpleMavenWebapp
 
-v1.0.2
+v1.0.3
+
+Now with pipeline script building
