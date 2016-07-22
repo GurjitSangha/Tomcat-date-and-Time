@@ -10,4 +10,4 @@ To run using Jetty:
 
 Runs on localhost:8080/SimpleMavenWebapp
 
-v1.0
+v1.0.1
