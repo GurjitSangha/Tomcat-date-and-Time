@@ -9,4 +9,5 @@ To run using Jetty:
 ```mvn jetty:run```
 
 Runs on localhost:8080/SimpleMavenWebapp
-\n v1.0
+
+v1.0
